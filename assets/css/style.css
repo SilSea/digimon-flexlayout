@@ -20,6 +20,18 @@
     align-items: center;
     border: 5px solid black;
 }
+.header{
+    font-size: xx-large;
+    background: orange;
+    color: white;
+    padding: 5px;
+}
+.footer{
+    font-size: x-large;
+    background: orange;
+    color: white;
+    padding: 5px;
+}
 .main-container{
     flex: 6;
     display: flex;
